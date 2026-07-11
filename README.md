@@ -1,4 +1,4 @@
-# AquaGuards 🌊
+# AquaGuards 
 
 AquaGuards is an IoT-based water quality monitoring system designed to monitor aquatic environmental conditions in real time. It collects sensor data from an ESP32-based hardware unit, stores the readings in Firebase Realtime Database, and visualizes them through an interactive React dashboard.
 
@@ -6,16 +6,16 @@ AquaGuards is an IoT-based water quality monitoring system designed to monitor a
 
 ## Features
 
-- 🌡️ Real-time Water Temperature Monitoring
-- 💧 Turbidity Monitoring
-- 🧪 Total Dissolved Solids (TDS) Monitoring
-- 📊 Live Dashboard with Charts
-- 🚨 Automatic Risk Classification
-- 🐟 Marine Species Vulnerability Database
-- 📄 PDF Report Generation
-- 📁 CSV Data Export
-- 🗺️ Indian Ocean Geotag Map
-- ☁️ Firebase Realtime Database Integration
+- Real-time Water Temperature Monitoring
+- Turbidity Monitoring
+- Total Dissolved Solids (TDS) Monitoring
+- Live Dashboard with Charts
+- Automatic Risk Classification
+- Marine Species Vulnerability Database
+- PDF Report Generation
+- CSV Data Export
+- Indian Ocean Geotag Map
+- Firebase Realtime Database Integration
 
 ---
 
