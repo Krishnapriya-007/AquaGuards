@@ -1,0 +1,38 @@
+/* src/App.css */
+
+/* AquaGuards Custom Styles */
+
+body {
+  background-color: #e0f2fe;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+/* Smooth transitions */
+* {
+  transition: all 0.2s ease-in-out;
+}
+
+/* Remove button outline */
+button {
+  outline: none;
+}
+
+/* Input focus */
+input:focus {
+  outline: none;
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  display: block;
+}
